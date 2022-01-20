@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQkABAAAAAAAADMAAAA/wAAALwMAP/7AAAAvMz/vPsAAADcy8y7DwAAANy9zPsAAAAAwL37DwAAAADwzM8AAAAAAM/MvAwAAADwzMy8zQAAAM/MzMzdDP8Az8zMzN0Mv//Mu8vM3f+/+7vMu8z9+7y/y7u7y7/7vL+7zLu7u/3Au8u7u7vb+/C7u7u7u7sP8Pu/uxvB/A+/+x8RERERD78bwcPMHBEMvxEcMzPBEQy/EcwzMzMRDL8RHDwzE8EAvxvMzMzMwQC/u/EPAMwMAPD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Sharky"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
